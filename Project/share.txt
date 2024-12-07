@@ -1,6 +1,9 @@
+Lab Task: 06
+-----------
+Create files in branches dev and staging with same name "share.txt" and then merge both branches and resolve the conflict there.
+-----------
 Branch: Dev
 Project Name: Git & GitHub Lab- 
 Author: Zeeshan 
 Institute: Cyberwing
 Submission Date: 7-12-2024
-
