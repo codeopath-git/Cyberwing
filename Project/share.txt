@@ -1,7 +1,0 @@
-Project Name: Git & GitHub Lab 
-
-Branch: Dev
-
-Author: Zeeshan 
-Institute: Cyberwing
-Submission Date: 7-12-2024
