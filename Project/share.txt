@@ -1,5 +1,13 @@
-Branch: Staging 
+<<<<<<< HEAD
+Branch: Dev and Staging 
+=======
+Branch: Dev and Staging
+>>>>>>> dev
 Project Name: Git & GitHub Lab- 
 Author: Zeeshan 
 Institute: Cyberwing
 Submission Date: 7-12-2024
+<<<<<<< HEAD
+=======
+
+>>>>>>> dev
