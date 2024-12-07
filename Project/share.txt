@@ -1,4 +1,0 @@
-Project: Git and GitHub 
-File Name: share.txt
-Team: Staging 
-Author: Zeeshan 
